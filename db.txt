@@ -1,0 +1,15 @@
+cars
+
+id - INT - AUTOINCREMENT
+brand - VARCHAR(100) - NOT NULL
+model - VARCHAR(100) -NOT NULL
+year - YEAR - NOT NULL
+km - SMALLINT - NOT NULL
+engine displacement - SMALLINT - NOT NULL
+cc - SMALLINT - NOT NULL
+horsepower - SMALLINT - NOT NULL
+doors - NOT NULL
+nationality - VARCHAR(50) - NULL
+owners - TINYINT - NOTNULL
+plate - VARCHAR(50)
+price - DECIMAL (6,2)
